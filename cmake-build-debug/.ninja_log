@@ -1,0 +1,15 @@
+# ninja log v5
+1	612	7323075450109675	CMakeFiles/Prueba_corta.dir/main.cpp.obj	5bdbf1c7d716735e
+616	811	7323075452039901	Prueba_corta.exe	5b1f3059813f0c32
+6	541	7323077844029211	CMakeFiles/Prueba_corta.dir/main.cpp.obj	5bdbf1c7d716735e
+542	676	7323077845335693	Prueba_corta.exe	5b1f3059813f0c32
+4	506	7323079871299345	CMakeFiles/Prueba_corta.dir/main.cpp.obj	5bdbf1c7d716735e
+506	666	7323079872855220	Prueba_corta.exe	5b1f3059813f0c32
+6	840	7323081965597410	CMakeFiles/Prueba_corta.dir/main.cpp.obj	5bdbf1c7d716735e
+841	1004	7323081967186046	Prueba_corta.exe	5b1f3059813f0c32
+7	515	7323083366853964	CMakeFiles/Prueba_corta.dir/main.cpp.obj	5bdbf1c7d716735e
+516	645	7323083368111603	Prueba_corta.exe	5b1f3059813f0c32
+6	530	7323084247122115	CMakeFiles/Prueba_corta.dir/main.cpp.obj	5bdbf1c7d716735e
+531	666	7323084248440124	Prueba_corta.exe	5b1f3059813f0c32
+5	531	7323090047736920	CMakeFiles/Prueba_corta.dir/main.cpp.obj	5bdbf1c7d716735e
+532	690	7323090049280725	Prueba_corta.exe	5b1f3059813f0c32
